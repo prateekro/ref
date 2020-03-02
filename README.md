@@ -5,7 +5,7 @@
 
 ### resume
 
-[![Resume - Prateek](https://github.com/prateekro/ref/blob/master/resume/CV%20-%20Prateek%20Rokadiya%20022320c.pdf)](https://github.com/prateekro/ref/blob/master/resume/CV%20-%20Prateek%20Rokadiya%20022320c.pdf)
+[![Resume - Prateek](https://github.com/prateekro/ref/blob/master/resume/prateek_bw_icon.ico)](https://github.com/prateekro/ref/blob/master/resume/CV%20-%20Prateek%20Rokadiya%20022320c.pdf)
 
 link: https://github.com/prateekro/ref/blob/master/resume/CV%20-%20Prateek%20Rokadiya%20022320c.pdf
 
